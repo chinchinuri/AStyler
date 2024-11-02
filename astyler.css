@@ -1,16 +1,16 @@
 /* Підключення шрифтів e-Ukraine */
 @font-face {
     font-family: 'e-Ukraine';
-    src: url('/assets/fonts/e-ukraine/e-Ukraine-Regular.woff2') format('woff2'),
-         url('/assets/fonts/e-ukraine/e-Ukraine-Regular.woff') format('woff');
+    src: url('/AStyler/assets/fonts/e-ukraine/e-Ukraine-Regular.woff2') format('woff2'),
+         url('/AStyler/assets/fonts/e-ukraine/e-Ukraine-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'e-Ukraine';
-    src: url('/assets/fonts/e-ukraine/e-Ukraine-Bold.woff2') format('woff2'),
-         url('/assets/fonts/e-ukraine/e-Ukraine-Bold.woff') format('woff');
+    src: url('/AStyler/assets/fonts/e-ukraine/e-Ukraine-Bold.woff2') format('woff2'),
+         url('/AStyler/assets/fonts/e-ukraine/e-Ukraine-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
